@@ -4,7 +4,7 @@ public class DragonTestFile
     {
         DragonPokemon bagon = new DragonPokemon("Bagon", "none", 400);
         DragonPokemon dratini = new DragonPokemon("Dratini", "none", 500, "Dragon");
-        DragonPokemon latios = new DragonPokemon("Latios", "none", 600, "Dragon", "Flying");
+        DragonPokemon latios = new DragonPokemon("Latios", "none", 600, "Dragon", "Psychic");
         Pokemon ashs_pikachu = new Pokemon("Pikachu", "Ash", 300);
         bagon.printTypes();
         dratini.printTypes();
